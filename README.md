@@ -6,3 +6,7 @@ This repository contains files and resources to complement the Codecademy Live: 
   * [Data and code files](https://github.com/Codecademy/Master-Statistics-Live-Series/tree/main/Codecademy%20Live%20Stats%20%231)
   * [Youtube link](https://www.youtube.com/watch?v=YwadRm2sfpQ)
   * Learn more by taking the Variable Types lesson in the [Master Statistics with Python](https://www.codecademy.com/learn/paths/master-statistics-with-python) skill path on Codecademy
+
+
+Session #7 
+https://www.youtube.com/watch?v=w-7dSKL0UHs&t=377s
